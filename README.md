@@ -1,7 +1,8 @@
 # 💫 About Me:
 🔍 Currently hunting for data-driven opportunities! I'm a whiz at crunching numbers, crafting killer reports, and turning data into actionable insights. If you need someone to make sense of your data chaos, I'm your go-to guru!<br><br>🤝 I'm on the lookout for collaborations in the realm of data analytics and business intelligence. Let's team up to uncover hidden patterns, optimize processes, and drive those game-changing decisions together!<br><br>🆘 Seeking a bit of guidance in leveling up my skills. Whether it's mastering the latest analytics tools or diving deeper into cloud services, I'm all ears for tips and tricks from seasoned pros.<br><br>📚 Currently geeking out on all things data! From advanced analytics techniques to cloud services, I'm always eager to learn and stay ahead of the curve.<br><br>💡 Got burning questions about data analytics or business intelligence? Fire away! I'm here to demystify the data world and help you navigate through the numbers with ease.<br><br>🎉 Fun Fact: When I'm not dissecting datasets, you'll find me on a quest for the perfect cup of coffee or exploring new hiking trails. Because life's all about finding balance between data crunching and adventure-seeking!
 
-- 📫 How to reach me **milanraythatha5@gmail.com**
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  **[milanraythatha5@gmail.com](mailto:milanraythatha5@gmail.com)**
+
 
 ## 🌐 Socials:
 
