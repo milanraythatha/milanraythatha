@@ -9,7 +9,7 @@
 **LinkedIn** <a href="https://linkedin.com/in/milanraythatha" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milanraythatha" height="30" width="40" /></a>
 **HackerRank** <a href="https://www.hackerrank.com/milanraythatha" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="milanraythatha" height="30" width="40" /></a>
 **LeetCode** <a href="https://www.leetcode.com/milanray" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="milanray" height="30" width="40" /></a>
-**Tableau Public** <a href="https://public.tableau.com/app/profile/milan.raythatha/vizzes" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau Public" style="height: 30px; width: auto;" /></a>
+**Tableau Public** <a href="https://public.tableau.com/app/profile/milan.raythatha/vizzes" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau Public" height="30" width="40" /></a>
 
 # 💻 Tech Stack:
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-%230072C6.svg?style=for-the-badge&logo=tableau&logoColor=white)
