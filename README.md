@@ -5,11 +5,9 @@ About Me:<br><br>🔍 Currently hunting for data-driven opportunities! I'm a whi
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/milanraythatha){:target="_blank"}
-
-<a href="https://linkedin.com/in/milanraythatha" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milanraythatha" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/milanraythatha" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="milanraythatha" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/milanray" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="milanray" height="30" width="40" /></a>
+**LinkedIn** <a href="https://linkedin.com/in/milanraythatha" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milanraythatha" height="30" width="40" /></a>
+**HackerRank** <a href="https://www.hackerrank.com/milanraythatha" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="milanraythatha" height="30" width="40" /></a>
+**LeetCode** <a href="https://www.leetcode.com/milanray" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="milanray" height="30" width="40" /></a>
 
 
 # 💻 Tech Stack:
