@@ -8,6 +8,7 @@
 **LinkedIn** <a href="https://linkedin.com/in/milanraythatha" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milanraythatha" height="30" width="40" /></a>
 **HackerRank** <a href="https://www.hackerrank.com/milanraythatha" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="milanraythatha" height="30" width="40" /></a>
 **LeetCode** <a href="https://www.leetcode.com/milanray" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="milanray" height="30" width="40" /></a>
+**Tableau Public** <a href="https://public.tableau.com/app/profile/milan.raythatha/vizzes" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Tableau_Logo.png" alt="Tableau Public" style="height: 30px; width: auto;" /></a>
 
 
 # 💻 Tech Stack:
